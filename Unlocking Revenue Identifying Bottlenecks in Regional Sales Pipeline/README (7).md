@@ -110,8 +110,8 @@ ORDER BY LossPercentage DESC;
 
 **📊 Query Output:**
 
-![SQL Q2 Output](<img width="858" height="271" alt="SQL Q2" src="https://github.com/user-attachments/assets/6bd291e7-0b9a-490b-a747-f6c24469ea7d" />
-)
+<img width="858" height="271" alt="SQL Q2" src="https://github.com/user-attachments/assets/6e986de1-a2b8-453f-ba8e-b49a72d5c704" />
+
 
 > ⚠️ **Insight:** South Region has the highest loss rate at **73.98%** — nearly 3 out of 4 orders are either cancelled or returned. Immediate attention needed!
 
@@ -135,8 +135,8 @@ LIMIT 3;
 
 **📊 Query Output:**
 
-![SQL Q3 Output](<img width="555" height="145" alt="SQL Q3" src="https://github.com/user-attachments/assets/1d0ae117-674c-4062-8179-53e656e11968" />
-)
+<img width="555" height="145" alt="SQL Q3" src="https://github.com/user-attachments/assets/6f8316ee-9dfe-4b76-b62b-c55b63717fcd" />
+
 
 > 🔴 **Insight:** **South – Tablet** is the biggest revenue drain at ₹1,40,152.65 lost. This could indicate quality, delivery, or pricing issues in the South region for electronics.
 
@@ -158,8 +158,8 @@ ORDER BY AvgOrderValue DESC;
 
 **📊 Query Output:**
 
-![SQL Q4 Output](<img width="413" height="218" alt="SQL Q4" src="https://github.com/user-attachments/assets/9851aa3a-d76e-4de9-9b63-b33be8dd33c6" />
-)
+<img width="413" height="218" alt="SQL Q4" src="https://github.com/user-attachments/assets/34bf45ea-5d13-4fcb-8f5c-264a3ee44804" />
+
 
 > 💡 **Insight:** **Electronics** has the highest average order value at ₹11,467 — making it the most valuable category per transaction.
 
@@ -182,8 +182,7 @@ LIMIT 5;
 
 **📊 Query Output:**
 
-![SQL Q5 Output](<img width="286" height="193" alt="SQL Q5" src="https://github.com/user-attachments/assets/0832fc44-ddb4-4434-800b-89d24e97c272" />
-)
+<img width="286" height="193" alt="SQL Q5" src="https://github.com/user-attachments/assets/3e913316-ed2b-4deb-89a0-85a3001faea8" />
 
 > 🏆 **Insight:** **Fiona** is the top performer with ₹2,90,772 in completed revenue — leading by ₹23,792 over second-place Alice.
 
@@ -212,8 +211,8 @@ ORDER BY Sales DESC;
 
 **📊 Query Output:**
 
-![SQL Q6 Output](<img width="447" height="181" alt="SQL Q6" src="https://github.com/user-attachments/assets/4c0cab39-3239-4557-bcfd-30b5f9d34519" />
-)
+<img width="447" height="181" alt="SQL Q6" src="https://github.com/user-attachments/assets/63f7f1a1-42b1-4c30-953c-f15280ef0043" />
+
 
 > 📊 **Insight:** **Furniture** leads with 28.44% of total revenue (₹4.59L), followed closely by Electronics at 26.26%. Revenue is fairly balanced across all 4 categories.
 
@@ -236,7 +235,7 @@ ORDER BY ReturnCount DESC;
 
 **📊 Query Output:**
 
-![SQL Q7 Output](<img width="283" height="99" alt="SQL Q7" src="https://github.com/user-attachments/assets/fb9b3a25-318b-4790-b20b-b9b3efa1dbc5" />
+<img width="283" height="99" alt="SQL Q7" src="https://github.com/user-attachments/assets/c26a7d67-d5ed-456f-8e68-09e61ffdeb85" />
 
 
 > 📝 **Note:** In this 500-row sample dataset, no customer has returned 3 or more times — all return counts are 1. This query will become more meaningful with a larger dataset where repeat return behavior is more likely to appear.
@@ -279,8 +278,8 @@ Built on SQL results or the original dataset, the dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Regional Sales Performance Dashboard](<img width="1168" height="652" alt="Project Preview" src="https://github.com/user-attachments/assets/f9b650fa-fe6e-444d-8a48-124df1e3d706" />
-)
+<img width="1168" height="652" alt="Project Preview" src="https://github.com/user-attachments/assets/af6066bf-db34-40af-80dd-0f268e91f58d" />
+
 
 ---
 
