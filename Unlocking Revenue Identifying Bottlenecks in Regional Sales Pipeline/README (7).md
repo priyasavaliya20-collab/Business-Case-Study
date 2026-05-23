@@ -81,7 +81,7 @@ GROUP BY DATE_FORMAT(Date, '%Y-%m'), Region;
 
 **📊 Query Output:**
 
-<img width="312" height="752" alt="SQL Q1" src="https://github.com/user-attachments/assets/dd2afd90-aae5-44dc-9b11-7938c417fdc4" />
+<img width="312" height="650" alt="SQL Q1" src="https://github.com/user-attachments/assets/dd2afd90-aae5-44dc-9b11-7938c417fdc4" />
 
 
 
