@@ -31,8 +31,7 @@ This project was built as a data analysis exam assignment. It analyzes the `Regi
 | 📄 `SalesBottleneck.sql` | SQL script with all 7 analysis queries |
 | 📊 `BottleneckDashboard.pbix` | Power BI Dashboard file |
 | 📝 `ExecutiveSummary.txt` | Key insights & suggested actions |
-| 📁 `files used/` | Source CSV dataset |
-| 📷 `Project images/` | Task screenshots & SQL output images |
+| 📁 `SQL output Tables` | Source CSV dataset |
 | 📘 `README.md` | Project readme |
 
 ---
