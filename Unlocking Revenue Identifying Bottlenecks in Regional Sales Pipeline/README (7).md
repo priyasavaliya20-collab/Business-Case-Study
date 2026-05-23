@@ -81,8 +81,9 @@ GROUP BY DATE_FORMAT(Date, '%Y-%m'), Region;
 
 **📊 Query Output:**
 
-![SQL Q1 Output](<img width="312" height="752" alt="SQL Q1" src="https://github.com/user-attachments/assets/7d6d40b0-2bd0-4220-8687-b17430c63098" />
-)
+<img width="312" height="752" alt="SQL Q1" src="https://github.com/user-attachments/assets/dd2afd90-aae5-44dc-9b11-7938c417fdc4" />
+
+
 
 > 💡 **Insight:** North Region peaked in April 2025 at ₹2,07,751 — the highest single-region monthly sales recorded.
 
