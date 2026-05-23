@@ -1,0 +1,42 @@
+📈 Executive Summary
+
+Regional Sales Performance Dashboard – 2025
+
+🎯 Project Objective
+
+The objective of this dashboard was to analyze sales performance across different regions, monitor order behavior, identify revenue loss due to cancellations and returns, and generate business insights for better decision-making.
+
+📊 Key Insights
+
+💰 1. Strong Revenue Generation
+
+Total completed sales reached 1.62M, showing healthy business performance and successful order completion across regions.
+
+🛒 2. Average Customer Spending
+
+Average Order Value was recorded at 10.53K, indicating a stable purchasing pattern and overall customer contribution per transaction.
+
+❌ 3. Order Cancellation Analysis
+
+A total of 169 cancellations were recorded, which indicates possible operational delays, order issues, or customer drop-offs that affected revenue.
+
+🔄 4. Product Return Observation
+
+Cooking Oil emerged as the Most Returned Product, suggesting potential concerns related to product quality, customer expectations, or delivery conditions.
+
+🌍 5. Regional Performance Comparison
+
+Sales distribution across East, West, North, and South showed noticeable differences, highlighting opportunities for targeted business improvements.
+
+🏷️ 6. Category-wise Sales Performance
+
+Sales varied across categories such as Electronics, Furniture, Clothing, and Groceries, helping identify strong and weak-performing product groups.
+
+📈 7. Monthly Sales Trend
+
+Monthly sales remained active throughout the year with visible fluctuations, indicating seasonal demand and changing customer buying behavior.
+
+
+🏁 Conclusion
+
+The dashboard provides a clear overview of regional sales performance, customer purchasing behavior, cancellations, and product returns. These insights can help improve business decisions, reduce revenue loss, and support future sales growth.

@@ -1,0 +1,501 @@
+OrderID,Date,CustomerID,Region,ProductName,Category,Quantity,UnitPrice,TotalAmount,OrderStatus,SalesAgent
+ORD00001,2025-06-08,CUST5566,East,Jacket,Clothing,19,1799.03,34181.57,Cancelled,Alice
+ORD00002,2025-02-15,CUST5143,South,Coffee,Groceries,7,677.1,4739.7,Cancelled,Hannah
+ORD00003,2025-09-20,CUST7702,West,Desk,Furniture,6,1883.1,11298.6,Cancelled,Catherine
+ORD00004,2025-06-09,CUST3417,East,Coffee,Groceries,18,490.56,8830.08,Cancelled,Brian
+ORD00005,2025-08-12,CUST5696,North,Headphones,Electronics,20,205.36,4107.2,Returned,Fiona
+ORD00006,2025-12-31,CUST2269,East,Sofa,Furniture,13,681.8,8863.4,Cancelled,Brian
+ORD00007,2025-02-08,CUST6890,East,Jeans,Clothing,6,881.57,5289.42,Completed,Alice
+ORD00008,2025-08-29,CUST6265,South,Tablet,Electronics,5,1840.2,9201.0,Cancelled,Hannah
+ORD00009,2025-04-23,CUST2442,South,Cabinet,Furniture,3,1568.73,4706.19,Returned,George
+ORD00010,2025-09-28,CUST7700,South,T-Shirt,Clothing,13,1420.81,18470.53,Completed,George
+ORD00011,2025-06-27,CUST5246,North,Milk Pack,Groceries,8,743.47,5947.76,Completed,Ethan
+ORD00012,2025-04-02,CUST2395,North,Tablet,Electronics,15,1480.2,22203.0,Returned,Fiona
+ORD00013,2025-03-22,CUST1855,South,Tablet,Electronics,17,537.29,9133.93,Returned,George
+ORD00014,2025-04-16,CUST6493,East,Laptop,Electronics,16,735.34,11765.44,Cancelled,Brian
+ORD00015,2025-08-20,CUST9135,North,Sofa,Furniture,3,1342.96,4028.88,Completed,Ethan
+ORD00016,2025-10-29,CUST1033,South,Jacket,Clothing,3,447.69,1343.07,Returned,Hannah
+ORD00017,2025-02-24,CUST7339,East,Jeans,Clothing,18,1382.68,24888.24,Completed,Brian
+ORD00018,2025-02-02,CUST5726,South,Chair,Furniture,13,911.19,11845.47,Returned,Hannah
+ORD00019,2025-06-13,CUST3580,South,Smartphone,Electronics,7,955.79,6690.53,Cancelled,George
+ORD00020,2025-10-24,CUST7175,East,Sneakers,Clothing,5,1311.03,6555.15,Returned,Brian
+ORD00021,2025-07-05,CUST7404,West,Sofa,Furniture,9,1103.32,9929.88,Cancelled,David
+ORD00022,2025-07-26,CUST8738,East,Cooking Oil,Groceries,9,1875.7,16881.3,Completed,Alice
+ORD00023,2025-07-09,CUST3960,East,Smartphone,Electronics,6,413.97,2483.82,Cancelled,Alice
+ORD00024,2025-11-01,CUST4206,North,Rice Bag,Groceries,17,1005.01,17085.17,Cancelled,Fiona
+ORD00025,2025-11-07,CUST1374,South,Chair,Furniture,3,1875.84,5627.52,Cancelled,Hannah
+ORD00026,2025-12-17,CUST7377,North,Rice Bag,Groceries,10,1975.15,19751.5,Returned,Ethan
+ORD00027,2025-12-13,CUST3974,North,Rice Bag,Groceries,12,1531.92,18383.04,Returned,Fiona
+ORD00028,2025-02-02,CUST8836,West,Sofa,Furniture,17,1601.83,27231.11,Cancelled,Catherine
+ORD00029,2025-01-02,CUST9176,North,Headphones,Electronics,5,433.84,2169.2,Completed,Ethan
+ORD00030,2025-05-01,CUST3258,North,Jacket,Clothing,10,1181.53,11815.3,Cancelled,Ethan
+ORD00031,2025-03-07,CUST2334,West,Desk,Furniture,5,1205.86,6029.3,Cancelled,David
+ORD00032,2025-03-04,CUST8570,North,Tablet,Electronics,16,315.35,5045.6,Returned,Fiona
+ORD00033,2025-02-25,CUST9596,East,Rice Bag,Groceries,16,81.11,1297.76,Completed,Alice
+ORD00034,2025-09-29,CUST7057,West,Cabinet,Furniture,13,1758.24,22857.12,Completed,Catherine
+ORD00035,2025-07-26,CUST3619,North,Chair,Furniture,12,959.33,11511.96,Completed,Ethan
+ORD00036,2025-08-20,CUST5963,North,Cabinet,Furniture,5,1683.98,8419.9,Completed,Ethan
+ORD00037,2025-07-16,CUST3683,East,Milk Pack,Groceries,3,626.33,1878.99,Returned,Alice
+ORD00038,2025-03-23,CUST4420,North,Desk,Furniture,14,806.51,11291.14,Completed,Ethan
+ORD00039,2025-12-19,CUST1236,North,Jacket,Clothing,8,1533.38,12267.04,Completed,Fiona
+ORD00040,2025-12-11,CUST6896,West,Laptop,Electronics,10,1968.77,19687.7,Returned,Catherine
+ORD00041,2025-10-02,CUST2423,West,Rice Bag,Groceries,4,1859.54,7438.16,Returned,Catherine
+ORD00042,2025-08-13,CUST8428,East,T-Shirt,Clothing,5,236.15,1180.75,Completed,Alice
+ORD00043,2025-06-09,CUST4825,East,Cooking Oil,Groceries,12,1325.67,15908.04,Returned,Alice
+ORD00044,2025-09-10,CUST8652,West,T-Shirt,Clothing,13,1016.8,13218.4,Completed,David
+ORD00045,2025-06-16,CUST6043,North,Smartphone,Electronics,17,1437.49,24437.33,Returned,Ethan
+ORD00046,2025-09-20,CUST7829,South,Headphones,Electronics,13,1556.16,20230.08,Cancelled,George
+ORD00047,2025-01-27,CUST6101,West,Milk Pack,Groceries,3,1367.49,4102.47,Returned,Catherine
+ORD00048,2025-10-28,CUST1920,West,Laptop,Electronics,7,850.58,5954.06,Completed,Catherine
+ORD00049,2025-10-12,CUST9466,East,Cabinet,Furniture,15,1065.73,15985.95,Cancelled,Brian
+ORD00050,2025-02-28,CUST9710,West,Chair,Furniture,9,1721.14,15490.26,Cancelled,David
+ORD00051,2025-09-27,CUST1916,East,Desk,Furniture,13,1872.42,24341.46,Returned,Alice
+ORD00052,2025-07-02,CUST2063,South,Jeans,Clothing,1,1068.32,1068.32,Cancelled,George
+ORD00053,2025-12-13,CUST8702,North,Jacket,Clothing,4,1950.27,7801.08,Completed,Ethan
+ORD00054,2025-08-14,CUST4212,North,Headphones,Electronics,12,1991.39,23896.68,Completed,Ethan
+ORD00055,2025-01-08,CUST9562,North,Jacket,Clothing,6,989.08,5934.48,Completed,Fiona
+ORD00056,2025-01-22,CUST2803,West,Laptop,Electronics,5,131.66,658.3,Cancelled,David
+ORD00057,2025-04-03,CUST1993,East,Jacket,Clothing,2,402.04,804.08,Cancelled,Alice
+ORD00058,2025-08-12,CUST9833,West,Desk,Furniture,1,420.34,420.34,Completed,David
+ORD00059,2025-09-12,CUST2847,West,Desk,Furniture,11,1951.94,21471.34,Cancelled,Catherine
+ORD00060,2025-03-13,CUST5598,East,Desk,Furniture,5,922.41,4612.05,Cancelled,Brian
+ORD00061,2025-05-20,CUST7923,South,Coffee,Groceries,5,662.38,3311.9,Cancelled,George
+ORD00062,2025-10-14,CUST2624,West,Laptop,Electronics,18,382.89,6892.02,Completed,David
+ORD00063,2025-10-15,CUST6806,South,Sneakers,Clothing,7,1897.68,13283.76,Cancelled,Hannah
+ORD00064,2025-05-27,CUST8498,North,Smartphone,Electronics,14,1397.3,19562.2,Completed,Fiona
+ORD00065,2025-11-18,CUST2171,West,Milk Pack,Groceries,12,428.2,5138.4,Completed,Catherine
+ORD00066,2025-02-15,CUST1693,East,Chair,Furniture,2,351.46,702.92,Returned,Brian
+ORD00067,2025-10-07,CUST5509,East,Desk,Furniture,9,421.26,3791.34,Cancelled,Brian
+ORD00068,2025-02-04,CUST5402,South,Sofa,Furniture,10,150.33,1503.3,Cancelled,George
+ORD00069,2025-08-01,CUST7262,South,Coffee,Groceries,2,49.19,98.38,Cancelled,Hannah
+ORD00070,2025-09-25,CUST1965,East,T-Shirt,Clothing,20,684.95,13699.0,Returned,Alice
+ORD00071,2025-10-26,CUST9373,South,Headphones,Electronics,7,1180.79,8265.53,Completed,Hannah
+ORD00072,2025-04-04,CUST2681,West,Tablet,Electronics,3,15.56,46.68,Completed,Catherine
+ORD00073,2025-09-25,CUST4112,West,Desk,Furniture,12,356.79,4281.48,Completed,David
+ORD00074,2025-04-25,CUST4993,West,Desk,Furniture,8,1147.42,9179.36,Completed,David
+ORD00075,2025-08-09,CUST9849,East,Sofa,Furniture,6,489.94,2939.64,Cancelled,Brian
+ORD00076,2025-12-07,CUST9007,East,Coffee,Groceries,11,1201.26,13213.86,Completed,Brian
+ORD00077,2025-01-16,CUST8125,North,Chair,Furniture,11,1023.59,11259.49,Cancelled,Ethan
+ORD00078,2025-10-19,CUST3872,West,Chair,Furniture,13,279.37,3631.81,Cancelled,Catherine
+ORD00079,2025-06-10,CUST3458,East,Cooking Oil,Groceries,1,1048.76,1048.76,Completed,Brian
+ORD00080,2025-02-17,CUST9678,East,Desk,Furniture,17,1186.45,20169.65,Cancelled,Brian
+ORD00081,2025-03-31,CUST1411,East,Coffee,Groceries,3,1525.0,4575.0,Returned,Alice
+ORD00082,2025-06-02,CUST4995,East,Headphones,Electronics,6,571.22,3427.32,Completed,Alice
+ORD00083,2025-04-23,CUST1839,West,Jacket,Clothing,14,1810.44,25346.16,Completed,David
+ORD00084,2025-12-07,CUST1579,West,Jacket,Clothing,7,1442.49,10097.43,Completed,Catherine
+ORD00085,2025-07-04,CUST5319,South,Sneakers,Clothing,11,360.63,3966.93,Cancelled,Hannah
+ORD00086,2025-04-24,CUST7567,South,Milk Pack,Groceries,8,1815.12,14520.96,Cancelled,George
+ORD00087,2025-05-31,CUST1933,East,Smartphone,Electronics,18,955.02,17190.36,Completed,Brian
+ORD00088,2025-10-01,CUST8905,North,Cooking Oil,Groceries,14,855.81,11981.34,Cancelled,Fiona
+ORD00089,2025-09-30,CUST5064,West,Tablet,Electronics,11,174.86,1923.46,Completed,David
+ORD00090,2025-06-03,CUST2377,North,Tablet,Electronics,13,503.28,6542.64,Cancelled,Ethan
+ORD00091,2025-05-24,CUST2818,East,Milk Pack,Groceries,5,733.07,3665.35,Cancelled,Alice
+ORD00092,2025-02-19,CUST3010,South,Smartphone,Electronics,4,150.89,603.56,Completed,George
+ORD00093,2025-01-23,CUST2376,East,Tablet,Electronics,15,1737.76,26066.4,Returned,Alice
+ORD00094,2025-05-03,CUST9729,West,Jacket,Clothing,7,1850.73,12955.11,Cancelled,Catherine
+ORD00095,2025-12-12,CUST4136,East,Jacket,Clothing,6,1333.86,8003.16,Cancelled,Brian
+ORD00096,2025-04-05,CUST5871,North,Smartphone,Electronics,12,428.66,5143.92,Returned,Fiona
+ORD00097,2025-08-06,CUST8350,East,Sofa,Furniture,16,331.3,5300.8,Cancelled,Alice
+ORD00098,2025-07-18,CUST7603,West,Smartphone,Electronics,10,976.76,9767.6,Returned,David
+ORD00099,2025-09-03,CUST6024,West,Tablet,Electronics,9,1952.84,17575.56,Completed,David
+ORD00100,2025-09-22,CUST2446,East,Cooking Oil,Groceries,18,1062.39,19123.02,Cancelled,Brian
+ORD00101,2025-08-10,CUST4958,North,Jeans,Clothing,20,1346.53,26930.6,Returned,Fiona
+ORD00102,2025-10-09,CUST6838,East,Jacket,Clothing,19,1362.12,25880.28,Completed,Alice
+ORD00103,2025-12-02,CUST1325,East,T-Shirt,Clothing,2,402.6,805.2,Returned,Brian
+ORD00104,2025-11-11,CUST8644,North,Cabinet,Furniture,11,1200.66,13207.26,Returned,Fiona
+ORD00105,2025-09-17,CUST3809,East,Laptop,Electronics,2,1905.8,3811.6,Cancelled,Alice
+ORD00106,2025-08-31,CUST4973,South,Desk,Furniture,20,929.42,18588.4,Completed,George
+ORD00107,2025-04-17,CUST6047,North,Sneakers,Clothing,10,1908.65,19086.5,Returned,Ethan
+ORD00108,2025-06-29,CUST5155,West,Tablet,Electronics,13,1129.77,14687.01,Cancelled,Catherine
+ORD00109,2025-10-25,CUST1483,East,Rice Bag,Groceries,3,1224.67,3674.01,Returned,Brian
+ORD00110,2025-08-27,CUST5715,East,Headphones,Electronics,9,1148.58,10337.22,Returned,Alice
+ORD00111,2025-03-13,CUST5708,North,Desk,Furniture,12,1697.14,20365.68,Returned,Fiona
+ORD00112,2025-06-09,CUST9338,South,Cabinet,Furniture,6,214.37,1286.22,Cancelled,Hannah
+ORD00113,2025-07-31,CUST2573,East,Sneakers,Clothing,8,1616.26,12930.08,Completed,Alice
+ORD00114,2025-02-18,CUST9834,East,Laptop,Electronics,19,1129.15,21453.85,Cancelled,Alice
+ORD00115,2025-08-21,CUST3057,South,Jacket,Clothing,16,743.04,11888.64,Completed,Hannah
+ORD00116,2025-02-10,CUST1955,East,Laptop,Electronics,8,1455.04,11640.32,Returned,Alice
+ORD00117,2025-07-30,CUST3621,North,Rice Bag,Groceries,11,1060.02,11660.22,Cancelled,Fiona
+ORD00118,2025-03-29,CUST7938,South,Chair,Furniture,15,1129.41,16941.15,Cancelled,George
+ORD00119,2025-02-04,CUST7014,West,Cooking Oil,Groceries,5,1711.44,8557.2,Completed,David
+ORD00120,2025-12-11,CUST6035,North,Chair,Furniture,15,1940.0,29100.0,Completed,Ethan
+ORD00121,2025-03-29,CUST4712,North,Jacket,Clothing,14,760.94,10653.16,Completed,Fiona
+ORD00122,2025-04-01,CUST4975,East,Sneakers,Clothing,9,1356.07,12204.63,Returned,Brian
+ORD00123,2025-03-17,CUST6537,North,Milk Pack,Groceries,6,1412.01,8472.06,Completed,Ethan
+ORD00124,2025-09-18,CUST2613,East,Sofa,Furniture,14,1207.24,16901.36,Returned,Brian
+ORD00125,2025-04-24,CUST6770,North,Sneakers,Clothing,17,1790.29,30434.93,Returned,Ethan
+ORD00126,2025-07-16,CUST5081,West,Sofa,Furniture,6,1788.93,10733.58,Cancelled,David
+ORD00127,2025-11-23,CUST1764,South,Coffee,Groceries,4,58.83,235.32,Returned,Hannah
+ORD00128,2025-11-17,CUST4870,West,Tablet,Electronics,17,951.32,16172.44,Completed,David
+ORD00129,2025-11-04,CUST5579,South,Rice Bag,Groceries,17,1000.66,17011.22,Returned,George
+ORD00130,2025-11-14,CUST2037,North,Headphones,Electronics,4,1007.74,4030.96,Completed,Fiona
+ORD00131,2025-01-20,CUST7763,East,Cooking Oil,Groceries,4,1177.75,4711.0,Returned,Alice
+ORD00132,2025-11-06,CUST1718,East,Sofa,Furniture,4,1541.91,6167.64,Returned,Brian
+ORD00133,2025-08-20,CUST9179,North,Smartphone,Electronics,3,612.43,1837.29,Cancelled,Fiona
+ORD00134,2025-09-24,CUST6350,East,Desk,Furniture,20,33.18,663.6,Completed,Brian
+ORD00135,2025-12-17,CUST1817,North,Coffee,Groceries,5,999.08,4995.4,Completed,Ethan
+ORD00136,2025-04-13,CUST3689,North,Coffee,Groceries,5,831.2,4156.0,Cancelled,Fiona
+ORD00137,2025-05-11,CUST1736,East,Coffee,Groceries,15,219.71,3295.65,Completed,Brian
+ORD00138,2025-01-29,CUST3296,West,Chair,Furniture,17,455.83,7749.11,Completed,Catherine
+ORD00139,2025-09-29,CUST8233,North,Sneakers,Clothing,14,1933.73,27072.22,Returned,Fiona
+ORD00140,2025-11-18,CUST8149,South,Sofa,Furniture,20,792.47,15849.4,Completed,George
+ORD00141,2025-06-29,CUST6716,West,Cabinet,Furniture,17,244.77,4161.09,Returned,David
+ORD00142,2025-02-14,CUST2948,West,Jeans,Clothing,9,1355.15,12196.35,Cancelled,David
+ORD00143,2025-03-17,CUST2575,North,Cabinet,Furniture,4,271.7,1086.8,Completed,Fiona
+ORD00144,2025-03-07,CUST1205,South,Headphones,Electronics,18,1056.52,19017.36,Cancelled,George
+ORD00145,2025-05-30,CUST8769,East,Chair,Furniture,11,1646.48,18111.28,Completed,Brian
+ORD00146,2025-03-01,CUST9256,North,Milk Pack,Groceries,5,494.36,2471.8,Cancelled,Ethan
+ORD00147,2025-06-11,CUST4946,East,Coffee,Groceries,20,1650.52,33010.4,Returned,Alice
+ORD00148,2025-04-17,CUST1552,North,Sofa,Furniture,20,59.04,1180.8,Completed,Ethan
+ORD00149,2025-01-23,CUST4187,North,Sofa,Furniture,12,1133.04,13596.48,Completed,Ethan
+ORD00150,2025-09-13,CUST2340,North,Sneakers,Clothing,18,506.7,9120.6,Returned,Fiona
+ORD00151,2025-10-13,CUST2373,North,Cabinet,Furniture,10,323.03,3230.3,Completed,Ethan
+ORD00152,2025-07-12,CUST1965,North,Coffee,Groceries,20,1718.72,34374.4,Completed,Ethan
+ORD00153,2025-01-22,CUST2151,North,Smartphone,Electronics,11,1576.18,17337.98,Completed,Fiona
+ORD00154,2025-09-02,CUST9059,South,Laptop,Electronics,13,573.36,7453.68,Returned,George
+ORD00155,2025-04-05,CUST6675,North,Headphones,Electronics,6,1560.84,9365.04,Returned,Fiona
+ORD00156,2025-09-18,CUST6633,North,Coffee,Groceries,2,1077.25,2154.5,Cancelled,Fiona
+ORD00157,2025-08-15,CUST5184,East,Sneakers,Clothing,13,1339.83,17417.79,Completed,Alice
+ORD00158,2025-09-14,CUST8996,South,Rice Bag,Groceries,7,1876.19,13133.33,Cancelled,George
+ORD00159,2025-04-18,CUST8601,North,Laptop,Electronics,19,1294.65,24598.35,Completed,Fiona
+ORD00160,2025-11-05,CUST8314,South,Rice Bag,Groceries,10,1372.79,13727.9,Returned,George
+ORD00161,2025-02-12,CUST9719,South,Coffee,Groceries,11,1144.14,12585.54,Completed,George
+ORD00162,2025-09-16,CUST9555,West,Jeans,Clothing,14,1159.58,16234.12,Returned,Catherine
+ORD00163,2025-09-27,CUST1442,West,Milk Pack,Groceries,8,1829.62,14636.96,Completed,Catherine
+ORD00164,2025-11-03,CUST6963,South,Chair,Furniture,12,1916.85,23002.2,Returned,George
+ORD00165,2025-09-30,CUST2053,East,Chair,Furniture,4,387.61,1550.44,Completed,Alice
+ORD00166,2025-08-27,CUST2222,South,Desk,Furniture,16,370.54,5928.64,Cancelled,Hannah
+ORD00167,2025-12-10,CUST8328,West,Jeans,Clothing,4,1216.14,4864.56,Cancelled,David
+ORD00168,2025-12-27,CUST3768,North,Tablet,Electronics,8,731.87,5854.96,Cancelled,Ethan
+ORD00169,2025-06-23,CUST5989,South,Sneakers,Clothing,7,626.16,4383.12,Cancelled,Hannah
+ORD00170,2025-01-13,CUST7412,East,Headphones,Electronics,7,209.28,1464.96,Returned,Alice
+ORD00171,2025-09-20,CUST1290,East,Coffee,Groceries,11,998.05,10978.55,Cancelled,Alice
+ORD00172,2025-09-14,CUST1449,South,Cabinet,Furniture,16,393.71,6299.36,Returned,Hannah
+ORD00173,2025-11-15,CUST4545,South,Headphones,Electronics,15,1898.93,28483.95,Completed,George
+ORD00174,2025-06-13,CUST6191,West,Coffee,Groceries,6,517.95,3107.7,Completed,Catherine
+ORD00175,2025-09-14,CUST8063,North,Rice Bag,Groceries,16,1878.17,30050.72,Completed,Fiona
+ORD00176,2025-10-19,CUST3527,East,Cabinet,Furniture,20,363.46,7269.2,Completed,Alice
+ORD00177,2025-07-30,CUST2423,North,Headphones,Electronics,6,1461.48,8768.88,Completed,Fiona
+ORD00178,2025-11-23,CUST6198,North,Desk,Furniture,4,1407.09,5628.36,Completed,Ethan
+ORD00179,2025-06-19,CUST4834,North,Cabinet,Furniture,11,1754.88,19303.68,Returned,Ethan
+ORD00180,2025-05-13,CUST8195,West,Coffee,Groceries,9,1617.12,14554.08,Cancelled,Catherine
+ORD00181,2025-02-28,CUST2396,East,Jacket,Clothing,15,742.66,11139.9,Returned,Alice
+ORD00182,2025-02-28,CUST2202,North,Coffee,Groceries,6,924.59,5547.54,Cancelled,Ethan
+ORD00183,2025-01-20,CUST7922,West,T-Shirt,Clothing,19,850.97,16168.43,Returned,Catherine
+ORD00184,2025-09-10,CUST9713,West,T-Shirt,Clothing,1,1632.89,1632.89,Completed,David
+ORD00185,2025-08-12,CUST3379,North,Milk Pack,Groceries,13,1377.1,17902.3,Completed,Fiona
+ORD00186,2025-09-10,CUST4029,West,Chair,Furniture,1,570.72,570.72,Cancelled,David
+ORD00187,2025-12-07,CUST8376,East,Tablet,Electronics,20,1397.03,27940.6,Cancelled,Brian
+ORD00188,2025-02-13,CUST8993,East,Milk Pack,Groceries,3,1049.06,3147.18,Returned,Brian
+ORD00189,2025-01-25,CUST9869,South,Cooking Oil,Groceries,8,559.0,4472.0,Cancelled,George
+ORD00190,2025-10-24,CUST1356,East,Milk Pack,Groceries,20,533.97,10679.4,Completed,Alice
+ORD00191,2025-07-11,CUST1699,North,Tablet,Electronics,12,1309.73,15716.76,Returned,Fiona
+ORD00192,2025-09-29,CUST2643,East,Chair,Furniture,14,545.98,7643.72,Completed,Alice
+ORD00193,2025-02-24,CUST2399,West,Headphones,Electronics,9,1270.31,11432.79,Returned,Catherine
+ORD00194,2025-03-28,CUST1486,West,Cooking Oil,Groceries,8,545.87,4366.96,Cancelled,Catherine
+ORD00195,2025-02-09,CUST3447,East,Chair,Furniture,3,1807.91,5423.73,Completed,Alice
+ORD00196,2025-03-30,CUST6573,West,Smartphone,Electronics,17,1075.01,18275.17,Cancelled,Catherine
+ORD00197,2025-08-02,CUST9606,East,Smartphone,Electronics,8,1858.38,14867.04,Completed,Alice
+ORD00198,2025-04-16,CUST1532,East,Milk Pack,Groceries,8,1850.54,14804.32,Cancelled,Brian
+ORD00199,2025-10-11,CUST1481,South,Coffee,Groceries,8,1433.73,11469.84,Returned,George
+ORD00200,2025-10-16,CUST2139,East,Sneakers,Clothing,7,1730.43,12113.01,Completed,Alice
+ORD00201,2025-12-20,CUST4850,North,T-Shirt,Clothing,2,412.9,825.8,Completed,Fiona
+ORD00202,2025-08-08,CUST7719,South,Desk,Furniture,4,513.2,2052.8,Cancelled,George
+ORD00203,2025-06-10,CUST5826,North,Cooking Oil,Groceries,17,1552.57,26393.69,Returned,Fiona
+ORD00204,2025-12-28,CUST5876,South,Cabinet,Furniture,14,807.3,11302.2,Cancelled,George
+ORD00205,2025-05-29,CUST1521,North,Cabinet,Furniture,14,1382.15,19350.1,Completed,Ethan
+ORD00206,2025-12-12,CUST7908,North,Sneakers,Clothing,12,776.68,9320.16,Cancelled,Fiona
+ORD00207,2025-02-26,CUST5023,South,Sofa,Furniture,6,1823.42,10940.52,Cancelled,George
+ORD00208,2025-06-10,CUST4586,West,Cooking Oil,Groceries,1,852.37,852.37,Returned,Catherine
+ORD00209,2025-08-23,CUST4283,South,Sneakers,Clothing,8,228.38,1827.04,Completed,Hannah
+ORD00210,2025-02-23,CUST5845,South,Milk Pack,Groceries,14,49.2,688.8,Returned,George
+ORD00211,2025-10-30,CUST9995,North,Cabinet,Furniture,9,1276.82,11491.38,Cancelled,Ethan
+ORD00212,2025-10-06,CUST8591,West,Chair,Furniture,6,955.98,5735.88,Completed,Catherine
+ORD00213,2025-02-08,CUST6390,West,Chair,Furniture,11,175.58,1931.38,Completed,David
+ORD00214,2025-01-08,CUST8417,West,Cooking Oil,Groceries,4,1764.4,7057.6,Cancelled,David
+ORD00215,2025-03-25,CUST1757,South,Cooking Oil,Groceries,9,1297.51,11677.59,Returned,Hannah
+ORD00216,2025-08-08,CUST1864,West,Cooking Oil,Groceries,14,1818.86,25464.04,Returned,Catherine
+ORD00217,2025-07-26,CUST6724,South,Cooking Oil,Groceries,1,1322.67,1322.67,Returned,Hannah
+ORD00218,2025-05-02,CUST6011,West,Jacket,Clothing,11,87.67,964.37,Returned,Catherine
+ORD00219,2025-12-03,CUST6395,West,Sofa,Furniture,19,272.83,5183.77,Completed,David
+ORD00220,2025-05-11,CUST4542,South,Sofa,Furniture,6,1524.66,9147.96,Completed,Hannah
+ORD00221,2025-10-27,CUST6436,East,Jacket,Clothing,17,701.71,11929.07,Completed,Alice
+ORD00222,2025-07-17,CUST7086,North,Coffee,Groceries,13,1580.45,20545.85,Returned,Fiona
+ORD00223,2025-09-05,CUST7989,North,Cooking Oil,Groceries,1,1623.86,1623.86,Completed,Fiona
+ORD00224,2025-07-27,CUST1442,South,Smartphone,Electronics,10,1548.41,15484.1,Cancelled,George
+ORD00225,2025-08-12,CUST5793,North,Jeans,Clothing,20,841.46,16829.2,Cancelled,Fiona
+ORD00226,2025-06-08,CUST4755,East,Sneakers,Clothing,5,1793.87,8969.35,Cancelled,Brian
+ORD00227,2025-12-04,CUST8946,West,Sofa,Furniture,17,121.23,2060.91,Cancelled,David
+ORD00228,2025-10-03,CUST5671,South,Chair,Furniture,10,638.83,6388.3,Returned,George
+ORD00229,2025-07-12,CUST6464,East,Jacket,Clothing,2,285.2,570.4,Completed,Brian
+ORD00230,2025-05-02,CUST4960,North,Smartphone,Electronics,7,833.63,5835.41,Completed,Ethan
+ORD00231,2025-02-17,CUST4965,South,Smartphone,Electronics,2,1914.04,3828.08,Returned,Hannah
+ORD00232,2025-04-21,CUST8947,South,Headphones,Electronics,12,970.02,11640.24,Returned,Hannah
+ORD00233,2025-09-08,CUST2457,South,Chair,Furniture,3,1594.17,4782.51,Returned,Hannah
+ORD00234,2025-08-26,CUST2166,West,Laptop,Electronics,2,356.9,713.8,Returned,Catherine
+ORD00235,2025-11-12,CUST4248,North,Coffee,Groceries,18,146.94,2644.92,Completed,Ethan
+ORD00236,2025-05-10,CUST4010,East,T-Shirt,Clothing,8,1826.0,14608.0,Completed,Alice
+ORD00237,2025-05-25,CUST9168,South,Tablet,Electronics,18,1301.13,23420.34,Returned,George
+ORD00238,2025-08-06,CUST4329,East,Sofa,Furniture,16,1860.06,29760.96,Cancelled,Alice
+ORD00239,2025-06-10,CUST6273,North,T-Shirt,Clothing,3,924.43,2773.29,Cancelled,Fiona
+ORD00240,2025-05-05,CUST7004,East,Rice Bag,Groceries,5,1006.55,5032.75,Completed,Brian
+ORD00241,2025-01-10,CUST4626,South,Coffee,Groceries,19,1568.51,29801.69,Returned,George
+ORD00242,2025-10-04,CUST9465,South,Sofa,Furniture,2,1185.67,2371.34,Completed,Hannah
+ORD00243,2025-04-23,CUST5629,East,Cabinet,Furniture,5,574.62,2873.1,Completed,Alice
+ORD00244,2025-10-04,CUST8916,South,Jacket,Clothing,20,1592.75,31855.0,Cancelled,Hannah
+ORD00245,2025-07-15,CUST4720,South,Laptop,Electronics,6,830.84,4985.04,Completed,George
+ORD00246,2025-11-07,CUST6031,South,Cooking Oil,Groceries,4,1005.09,4020.36,Returned,George
+ORD00247,2025-10-22,CUST6170,South,Milk Pack,Groceries,16,862.85,13805.6,Cancelled,George
+ORD00248,2025-01-31,CUST1833,East,Cabinet,Furniture,8,883.92,7071.36,Returned,Brian
+ORD00249,2025-06-11,CUST1211,East,Coffee,Groceries,11,1558.45,17142.95,Returned,Alice
+ORD00250,2025-01-26,CUST1505,South,Chair,Furniture,8,21.6,172.8,Returned,George
+ORD00251,2025-05-19,CUST1839,West,Milk Pack,Groceries,16,1224.38,19590.08,Returned,David
+ORD00252,2025-01-14,CUST1773,North,Smartphone,Electronics,13,1453.57,18896.41,Returned,Ethan
+ORD00253,2025-04-05,CUST9989,North,Sneakers,Clothing,20,553.77,11075.4,Returned,Ethan
+ORD00254,2025-08-05,CUST1993,South,Chair,Furniture,8,1017.37,8138.96,Cancelled,Hannah
+ORD00255,2025-11-14,CUST2105,North,Chair,Furniture,6,813.26,4879.56,Completed,Ethan
+ORD00256,2025-04-07,CUST7539,West,Laptop,Electronics,11,515.25,5667.75,Returned,David
+ORD00257,2025-01-27,CUST4487,North,T-Shirt,Clothing,12,541.07,6492.84,Returned,Ethan
+ORD00258,2025-10-04,CUST6197,South,Smartphone,Electronics,12,514.65,6175.8,Cancelled,Hannah
+ORD00259,2025-10-23,CUST8262,South,Coffee,Groceries,15,149.77,2246.55,Completed,George
+ORD00260,2025-03-02,CUST3826,West,Smartphone,Electronics,10,1118.44,11184.4,Completed,David
+ORD00261,2025-04-10,CUST2673,West,Sofa,Furniture,5,1954.62,9773.1,Returned,David
+ORD00262,2025-09-17,CUST9782,North,Coffee,Groceries,11,409.64,4506.04,Returned,Ethan
+ORD00263,2025-04-29,CUST8557,South,Sofa,Furniture,10,1465.3,14653.0,Cancelled,Hannah
+ORD00264,2025-09-28,CUST5344,North,Jacket,Clothing,19,1258.55,23912.45,Returned,Ethan
+ORD00265,2025-08-25,CUST4058,South,Laptop,Electronics,18,873.88,15729.84,Completed,George
+ORD00266,2025-04-24,CUST5974,South,Tablet,Electronics,17,656.39,11158.63,Cancelled,Hannah
+ORD00267,2025-07-01,CUST7368,South,Desk,Furniture,18,1333.38,24000.84,Cancelled,Hannah
+ORD00268,2025-09-13,CUST3103,West,Desk,Furniture,4,579.14,2316.56,Cancelled,David
+ORD00269,2025-01-10,CUST4715,East,Rice Bag,Groceries,14,916.12,12825.68,Returned,Alice
+ORD00270,2025-11-30,CUST8418,North,Jacket,Clothing,16,1032.81,16524.96,Returned,Fiona
+ORD00271,2025-01-31,CUST6380,South,Milk Pack,Groceries,14,1297.96,18171.44,Completed,George
+ORD00272,2025-02-01,CUST2239,East,Sofa,Furniture,15,1767.22,26508.3,Completed,Brian
+ORD00273,2025-06-18,CUST1417,South,Cooking Oil,Groceries,14,888.87,12444.18,Returned,Hannah
+ORD00274,2025-07-27,CUST3348,South,Desk,Furniture,8,1292.1,10336.8,Cancelled,George
+ORD00275,2025-07-08,CUST4903,East,Milk Pack,Groceries,14,1648.71,23081.94,Returned,Alice
+ORD00276,2025-08-08,CUST6160,East,T-Shirt,Clothing,12,41.08,492.96,Completed,Brian
+ORD00277,2025-09-11,CUST7866,South,Sofa,Furniture,16,399.2,6387.2,Returned,Hannah
+ORD00278,2025-11-23,CUST1986,West,Cooking Oil,Groceries,7,1313.84,9196.88,Returned,David
+ORD00279,2025-11-26,CUST8638,West,Headphones,Electronics,5,1621.86,8109.3,Completed,David
+ORD00280,2025-03-09,CUST2985,North,Cooking Oil,Groceries,10,1174.89,11748.9,Returned,Fiona
+ORD00281,2025-11-22,CUST7387,South,Milk Pack,Groceries,20,784.55,15691.0,Cancelled,George
+ORD00282,2025-07-10,CUST3144,North,Tablet,Electronics,12,1263.27,15159.24,Cancelled,Fiona
+ORD00283,2025-12-24,CUST9972,East,Sofa,Furniture,9,1597.8,14380.2,Completed,Brian
+ORD00284,2025-10-01,CUST8528,West,Tablet,Electronics,11,907.61,9983.71,Returned,David
+ORD00285,2025-02-21,CUST3691,East,Desk,Furniture,1,1888.24,1888.24,Completed,Brian
+ORD00286,2025-10-31,CUST3257,South,Sofa,Furniture,3,1474.88,4424.64,Completed,George
+ORD00287,2025-10-26,CUST5037,North,Cooking Oil,Groceries,20,425.47,8509.4,Returned,Ethan
+ORD00288,2025-01-15,CUST3669,East,Sofa,Furniture,14,604.07,8456.98,Returned,Brian
+ORD00289,2025-01-26,CUST6541,South,Cabinet,Furniture,8,1286.34,10290.72,Completed,George
+ORD00290,2025-12-09,CUST2914,South,Cooking Oil,Groceries,15,1728.88,25933.2,Returned,George
+ORD00291,2025-12-28,CUST3782,West,Cooking Oil,Groceries,20,837.43,16748.6,Cancelled,David
+ORD00292,2025-11-02,CUST4502,East,Milk Pack,Groceries,20,1584.38,31687.6,Cancelled,Brian
+ORD00293,2025-05-28,CUST8665,North,Laptop,Electronics,1,945.75,945.75,Cancelled,Fiona
+ORD00294,2025-09-27,CUST9092,East,Sofa,Furniture,12,1906.38,22876.56,Cancelled,Alice
+ORD00295,2025-02-13,CUST1197,South,Jacket,Clothing,1,38.88,38.88,Completed,George
+ORD00296,2025-09-03,CUST6721,North,Laptop,Electronics,18,700.66,12611.88,Cancelled,Ethan
+ORD00297,2025-07-11,CUST1335,South,Rice Bag,Groceries,6,257.8,1546.8,Cancelled,George
+ORD00298,2025-03-18,CUST8750,South,Headphones,Electronics,5,800.82,4004.1,Cancelled,Hannah
+ORD00299,2025-03-23,CUST2314,East,Sofa,Furniture,5,265.05,1325.25,Returned,Alice
+ORD00300,2025-11-16,CUST9387,West,Tablet,Electronics,13,1979.28,25730.64,Completed,Catherine
+ORD00301,2025-10-17,CUST7796,North,Sneakers,Clothing,4,1196.41,4785.64,Completed,Fiona
+ORD00302,2025-10-04,CUST7539,North,Desk,Furniture,2,1905.12,3810.24,Completed,Fiona
+ORD00303,2025-02-13,CUST5942,North,Jacket,Clothing,4,1078.92,4315.68,Cancelled,Fiona
+ORD00304,2025-08-04,CUST7196,North,Milk Pack,Groceries,6,505.55,3033.3,Completed,Fiona
+ORD00305,2025-09-01,CUST8476,West,Headphones,Electronics,15,1701.76,25526.4,Cancelled,Catherine
+ORD00306,2025-01-13,CUST9045,East,Cabinet,Furniture,9,1826.98,16442.82,Returned,Alice
+ORD00307,2025-12-31,CUST3720,North,Jeans,Clothing,10,525.63,5256.3,Completed,Ethan
+ORD00308,2025-03-22,CUST5137,North,Chair,Furniture,17,675.05,11475.85,Completed,Fiona
+ORD00309,2025-07-19,CUST2711,West,Coffee,Groceries,15,292.31,4384.65,Returned,David
+ORD00310,2025-09-16,CUST9134,North,Coffee,Groceries,7,239.84,1678.88,Cancelled,Fiona
+ORD00311,2025-07-14,CUST8786,North,Milk Pack,Groceries,9,645.17,5806.53,Returned,Ethan
+ORD00312,2025-07-19,CUST8082,North,Smartphone,Electronics,19,1072.3,20373.7,Returned,Ethan
+ORD00313,2025-03-29,CUST8978,South,Desk,Furniture,17,638.45,10853.65,Completed,George
+ORD00314,2025-05-09,CUST9381,North,Cooking Oil,Groceries,5,1414.82,7074.1,Cancelled,Fiona
+ORD00315,2025-11-21,CUST3160,South,Cabinet,Furniture,1,292.59,292.59,Completed,Hannah
+ORD00316,2025-01-07,CUST6638,West,Sneakers,Clothing,16,866.41,13862.56,Cancelled,Catherine
+ORD00317,2025-06-07,CUST2744,North,Jacket,Clothing,5,308.7,1543.5,Completed,Fiona
+ORD00318,2025-11-28,CUST7789,South,T-Shirt,Clothing,13,699.15,9088.95,Completed,George
+ORD00319,2025-09-12,CUST7740,West,Tablet,Electronics,6,1960.94,11765.64,Completed,David
+ORD00320,2025-07-24,CUST9571,North,Sneakers,Clothing,11,190.84,2099.24,Cancelled,Fiona
+ORD00321,2025-04-14,CUST3678,East,Sofa,Furniture,12,129.66,1555.92,Cancelled,Alice
+ORD00322,2025-07-21,CUST7563,South,Cabinet,Furniture,6,1224.49,7346.94,Cancelled,George
+ORD00323,2025-01-25,CUST9847,South,Cooking Oil,Groceries,13,1257.76,16350.88,Returned,Hannah
+ORD00324,2025-03-08,CUST1285,East,Desk,Furniture,20,1968.72,39374.4,Returned,Brian
+ORD00325,2025-11-17,CUST8628,South,Jeans,Clothing,20,901.46,18029.2,Cancelled,Hannah
+ORD00326,2025-08-18,CUST4396,North,Jeans,Clothing,12,455.41,5464.92,Returned,Fiona
+ORD00327,2025-01-04,CUST9861,North,Chair,Furniture,6,813.44,4880.64,Completed,Ethan
+ORD00328,2025-01-31,CUST1528,South,Headphones,Electronics,4,400.1,1600.4,Returned,Hannah
+ORD00329,2025-06-26,CUST6542,South,Smartphone,Electronics,3,749.21,2247.63,Cancelled,Hannah
+ORD00330,2025-06-02,CUST5711,South,Laptop,Electronics,12,1490.07,17880.84,Completed,George
+ORD00331,2025-07-15,CUST8660,East,Tablet,Electronics,18,462.5,8325.0,Cancelled,Brian
+ORD00332,2025-12-23,CUST8857,North,Tablet,Electronics,2,663.75,1327.5,Completed,Ethan
+ORD00333,2025-03-19,CUST4934,West,Milk Pack,Groceries,16,372.5,5960.0,Cancelled,David
+ORD00334,2025-12-23,CUST2052,South,Tablet,Electronics,20,1524.43,30488.6,Returned,George
+ORD00335,2025-01-06,CUST8405,West,Sneakers,Clothing,2,329.38,658.76,Cancelled,Catherine
+ORD00336,2025-06-06,CUST3065,South,Tablet,Electronics,19,1812.53,34438.07,Cancelled,Hannah
+ORD00337,2025-08-20,CUST9690,South,Coffee,Groceries,8,166.71,1333.68,Returned,George
+ORD00338,2025-04-28,CUST8733,North,Headphones,Electronics,8,143.64,1149.12,Completed,Fiona
+ORD00339,2025-09-28,CUST9673,East,Coffee,Groceries,2,1207.47,2414.94,Returned,Alice
+ORD00340,2025-11-14,CUST5465,North,Smartphone,Electronics,4,1660.77,6643.08,Cancelled,Fiona
+ORD00341,2025-08-21,CUST1317,West,Milk Pack,Groceries,6,1132.62,6795.72,Returned,David
+ORD00342,2025-11-22,CUST9527,East,Milk Pack,Groceries,8,178.93,1431.44,Cancelled,Brian
+ORD00343,2025-03-19,CUST4067,West,Desk,Furniture,6,924.86,5549.16,Returned,David
+ORD00344,2025-08-10,CUST5515,South,Desk,Furniture,15,1582.66,23739.9,Returned,Hannah
+ORD00345,2025-09-10,CUST8911,North,Jeans,Clothing,7,126.5,885.5,Cancelled,Fiona
+ORD00346,2025-12-20,CUST7118,East,Jeans,Clothing,1,700.75,700.75,Cancelled,Brian
+ORD00347,2025-04-17,CUST7173,South,Milk Pack,Groceries,13,445.65,5793.45,Cancelled,Hannah
+ORD00348,2025-09-21,CUST6144,West,Laptop,Electronics,9,1125.46,10129.14,Completed,David
+ORD00349,2025-04-09,CUST1758,North,T-Shirt,Clothing,17,1502.58,25543.86,Cancelled,Ethan
+ORD00350,2025-03-03,CUST6773,South,Sneakers,Clothing,8,402.5,3220.0,Completed,George
+ORD00351,2025-04-03,CUST3151,West,Tablet,Electronics,11,326.18,3587.98,Returned,Catherine
+ORD00352,2025-09-21,CUST6420,East,Cabinet,Furniture,10,1093.48,10934.8,Cancelled,Brian
+ORD00353,2025-08-28,CUST7003,West,Milk Pack,Groceries,18,316.49,5696.82,Returned,David
+ORD00354,2025-06-15,CUST8259,West,Coffee,Groceries,12,662.03,7944.36,Completed,Catherine
+ORD00355,2025-09-13,CUST4685,South,Cooking Oil,Groceries,12,1316.37,15796.44,Cancelled,George
+ORD00356,2025-01-31,CUST5383,North,Rice Bag,Groceries,13,207.49,2697.37,Cancelled,Ethan
+ORD00357,2025-06-09,CUST3189,South,Smartphone,Electronics,9,1341.65,12074.85,Returned,Hannah
+ORD00358,2025-04-17,CUST4552,South,Desk,Furniture,10,1027.11,10271.1,Cancelled,George
+ORD00359,2025-12-13,CUST2855,East,Laptop,Electronics,18,331.43,5965.74,Completed,Brian
+ORD00360,2025-01-14,CUST5581,East,Coffee,Groceries,5,207.13,1035.65,Cancelled,Brian
+ORD00361,2025-11-29,CUST5920,North,Tablet,Electronics,10,1799.02,17990.2,Returned,Fiona
+ORD00362,2025-01-20,CUST6765,North,Cooking Oil,Groceries,8,705.07,5640.56,Returned,Ethan
+ORD00363,2025-06-23,CUST4628,West,Jeans,Clothing,3,1099.53,3298.59,Returned,Catherine
+ORD00364,2025-10-28,CUST8028,East,Chair,Furniture,7,868.06,6076.42,Returned,Alice
+ORD00365,2025-02-15,CUST5789,West,Cooking Oil,Groceries,2,1510.24,3020.48,Cancelled,Catherine
+ORD00366,2025-12-16,CUST3338,West,Cabinet,Furniture,3,261.38,784.14,Cancelled,David
+ORD00367,2025-04-07,CUST2667,North,Sofa,Furniture,15,478.4,7176.0,Completed,Fiona
+ORD00368,2025-04-07,CUST1335,South,Headphones,Electronics,1,330.04,330.04,Completed,Hannah
+ORD00369,2025-05-28,CUST4671,North,T-Shirt,Clothing,16,1615.69,25851.04,Cancelled,Ethan
+ORD00370,2025-09-06,CUST5078,East,Jeans,Clothing,7,698.97,4892.79,Completed,Alice
+ORD00371,2025-04-01,CUST2872,North,Desk,Furniture,5,1059.14,5295.7,Completed,Ethan
+ORD00372,2025-04-24,CUST1956,East,Jacket,Clothing,16,306.01,4896.16,Cancelled,Alice
+ORD00373,2025-03-31,CUST4225,West,Milk Pack,Groceries,15,1937.38,29060.7,Returned,Catherine
+ORD00374,2025-07-15,CUST9962,East,Headphones,Electronics,17,764.97,13004.49,Cancelled,Brian
+ORD00375,2025-08-01,CUST5715,West,Milk Pack,Groceries,3,1273.7,3821.1,Cancelled,David
+ORD00376,2025-03-31,CUST2502,North,Tablet,Electronics,9,516.78,4651.02,Returned,Fiona
+ORD00377,2025-08-12,CUST3538,South,Desk,Furniture,11,548.9,6037.9,Completed,George
+ORD00378,2025-02-15,CUST5763,South,Chair,Furniture,12,914.66,10975.92,Cancelled,George
+ORD00379,2025-07-11,CUST1356,North,Rice Bag,Groceries,5,1246.69,6233.45,Returned,Ethan
+ORD00380,2025-05-11,CUST5780,North,Jacket,Clothing,8,1250.39,10003.12,Completed,Fiona
+ORD00381,2025-01-25,CUST2740,East,Desk,Furniture,13,1722.46,22391.98,Completed,Alice
+ORD00382,2025-05-24,CUST8425,West,Coffee,Groceries,20,396.02,7920.4,Cancelled,Catherine
+ORD00383,2025-03-28,CUST2141,North,Coffee,Groceries,10,991.01,9910.1,Cancelled,Fiona
+ORD00384,2025-03-16,CUST6823,East,Milk Pack,Groceries,4,808.74,3234.96,Returned,Alice
+ORD00385,2025-03-28,CUST8728,East,Sneakers,Clothing,10,549.12,5491.2,Cancelled,Brian
+ORD00386,2025-08-20,CUST2241,North,Cooking Oil,Groceries,13,311.66,4051.58,Completed,Ethan
+ORD00387,2025-03-22,CUST6372,North,Rice Bag,Groceries,13,1469.26,19100.38,Completed,Fiona
+ORD00388,2025-02-01,CUST6950,East,Desk,Furniture,10,1159.17,11591.7,Cancelled,Alice
+ORD00389,2025-02-02,CUST3681,West,Headphones,Electronics,16,1902.32,30437.12,Returned,Catherine
+ORD00390,2025-06-07,CUST1287,South,Coffee,Groceries,10,71.66,716.6,Completed,Hannah
+ORD00391,2025-03-30,CUST5886,West,Rice Bag,Groceries,10,1780.02,17800.2,Cancelled,Catherine
+ORD00392,2025-08-26,CUST1485,South,Milk Pack,Groceries,7,742.68,5198.76,Returned,George
+ORD00393,2025-02-10,CUST9250,North,Jeans,Clothing,16,1449.12,23185.92,Cancelled,Ethan
+ORD00394,2025-03-14,CUST4786,North,Rice Bag,Groceries,6,132.9,797.4,Cancelled,Fiona
+ORD00395,2025-11-04,CUST6005,East,Cabinet,Furniture,4,1617.84,6471.36,Returned,Alice
+ORD00396,2025-04-06,CUST6444,North,Smartphone,Electronics,7,1669.5,11686.5,Cancelled,Ethan
+ORD00397,2025-09-30,CUST7171,East,Laptop,Electronics,6,1574.71,9448.26,Completed,Alice
+ORD00398,2025-04-14,CUST9961,North,Sneakers,Clothing,17,1370.49,23298.33,Completed,Fiona
+ORD00399,2025-09-09,CUST4360,East,T-Shirt,Clothing,18,720.63,12971.34,Completed,Brian
+ORD00400,2025-08-30,CUST2900,North,Desk,Furniture,4,1881.29,7525.16,Returned,Ethan
+ORD00401,2025-12-28,CUST7520,South,Tablet,Electronics,12,1859.34,22312.08,Returned,George
+ORD00402,2025-07-15,CUST3384,South,Rice Bag,Groceries,15,1469.25,22038.75,Returned,Hannah
+ORD00403,2025-01-01,CUST1752,West,Cabinet,Furniture,20,824.3,16486.0,Completed,Catherine
+ORD00404,2025-08-04,CUST9660,East,Sneakers,Clothing,17,249.63,4243.71,Cancelled,Alice
+ORD00405,2025-02-15,CUST7852,East,Milk Pack,Groceries,3,795.61,2386.83,Returned,Alice
+ORD00406,2025-09-23,CUST2688,East,Tablet,Electronics,10,1123.34,11233.4,Cancelled,Brian
+ORD00407,2025-10-22,CUST4966,West,Laptop,Electronics,17,1609.85,27367.45,Returned,David
+ORD00408,2025-07-21,CUST8376,North,Sneakers,Clothing,3,1788.38,5365.14,Returned,Ethan
+ORD00409,2025-10-02,CUST7555,East,Desk,Furniture,7,1200.29,8402.03,Returned,Alice
+ORD00410,2025-01-03,CUST3128,East,Desk,Furniture,8,965.0,7720.0,Completed,Brian
+ORD00411,2025-03-22,CUST9341,East,Chair,Furniture,5,1463.37,7316.85,Cancelled,Brian
+ORD00412,2025-08-23,CUST8500,West,Cooking Oil,Groceries,18,999.12,17984.16,Returned,Catherine
+ORD00413,2025-08-28,CUST1348,South,Sneakers,Clothing,18,601.78,10832.04,Returned,George
+ORD00414,2025-04-29,CUST2540,North,Coffee,Groceries,3,838.46,2515.38,Returned,Ethan
+ORD00415,2025-07-28,CUST7856,South,Cooking Oil,Groceries,17,1403.57,23860.69,Cancelled,Hannah
+ORD00416,2025-08-07,CUST7909,West,T-Shirt,Clothing,20,455.64,9112.8,Returned,David
+ORD00417,2025-05-15,CUST6424,East,Jeans,Clothing,19,1644.37,31243.03,Completed,Alice
+ORD00418,2025-10-31,CUST4209,East,T-Shirt,Clothing,18,777.21,13989.78,Returned,Alice
+ORD00419,2025-01-13,CUST5928,South,Cooking Oil,Groceries,19,1508.1,28653.9,Completed,George
+ORD00420,2025-01-03,CUST3723,East,Laptop,Electronics,11,934.38,10278.18,Returned,Alice
+ORD00421,2025-12-01,CUST5685,East,Sneakers,Clothing,4,1706.31,6825.24,Cancelled,Alice
+ORD00422,2025-05-31,CUST2973,West,T-Shirt,Clothing,5,420.53,2102.65,Completed,Catherine
+ORD00423,2025-01-11,CUST2780,West,Rice Bag,Groceries,4,117.53,470.12,Cancelled,Catherine
+ORD00424,2025-12-23,CUST6863,North,Coffee,Groceries,1,452.21,452.21,Completed,Fiona
+ORD00425,2025-10-21,CUST6745,East,Jeans,Clothing,6,1950.98,11705.88,Returned,Brian
+ORD00426,2025-02-02,CUST4380,West,Cabinet,Furniture,19,1472.68,27980.92,Cancelled,David
+ORD00427,2025-11-16,CUST7353,North,Jeans,Clothing,12,902.11,10825.32,Cancelled,Ethan
+ORD00428,2025-01-23,CUST3213,South,Smartphone,Electronics,5,1343.55,6717.75,Returned,George
+ORD00429,2025-12-21,CUST2623,East,Desk,Furniture,18,636.96,11465.28,Completed,Brian
+ORD00430,2025-05-26,CUST9359,East,Sneakers,Clothing,1,484.41,484.41,Returned,Brian
+ORD00431,2025-04-13,CUST9509,East,T-Shirt,Clothing,18,1791.58,32248.44,Cancelled,Brian
+ORD00432,2025-04-08,CUST7659,South,Chair,Furniture,12,158.36,1900.32,Cancelled,George
+ORD00433,2025-12-27,CUST4696,West,Cooking Oil,Groceries,20,1925.07,38501.4,Returned,Catherine
+ORD00434,2025-01-31,CUST4450,North,Rice Bag,Groceries,1,1682.25,1682.25,Completed,Fiona
+ORD00435,2025-12-27,CUST8701,North,Jeans,Clothing,17,554.46,9425.82,Completed,Fiona
+ORD00436,2025-09-13,CUST3454,North,Desk,Furniture,12,1378.09,16537.08,Returned,Fiona
+ORD00437,2025-01-23,CUST4786,South,Sofa,Furniture,2,1835.45,3670.9,Completed,Hannah
+ORD00438,2025-12-21,CUST1260,North,Rice Bag,Groceries,4,211.96,847.84,Returned,Ethan
+ORD00439,2025-08-31,CUST8249,West,Coffee,Groceries,9,59.68,537.12,Completed,Catherine
+ORD00440,2025-03-08,CUST8157,West,Chair,Furniture,7,85.18,596.26,Returned,Catherine
+ORD00441,2025-11-12,CUST3138,East,Laptop,Electronics,19,465.23,8839.37,Cancelled,Alice
+ORD00442,2025-04-26,CUST6062,North,Cooking Oil,Groceries,9,426.93,3842.37,Completed,Fiona
+ORD00443,2025-03-14,CUST6899,North,Jeans,Clothing,16,143.4,2294.4,Cancelled,Fiona
+ORD00444,2025-04-04,CUST3718,South,Headphones,Electronics,12,1526.71,18320.52,Cancelled,George
+ORD00445,2025-07-02,CUST5349,South,Coffee,Groceries,17,443.1,7532.7,Cancelled,Hannah
+ORD00446,2025-04-18,CUST5272,South,Milk Pack,Groceries,8,1272.14,10177.12,Returned,Hannah
+ORD00447,2025-07-10,CUST2774,East,Smartphone,Electronics,20,1962.9,39258.0,Completed,Brian
+ORD00448,2025-11-26,CUST2988,North,Jeans,Clothing,2,1525.07,3050.14,Cancelled,Fiona
+ORD00449,2025-03-19,CUST4470,East,Smartphone,Electronics,4,1761.09,7044.36,Returned,Brian
+ORD00450,2025-09-15,CUST2566,North,Sneakers,Clothing,16,584.93,9358.88,Completed,Fiona
+ORD00451,2025-04-10,CUST5408,East,Cooking Oil,Groceries,16,215.76,3452.16,Returned,Alice
+ORD00452,2025-08-16,CUST8420,West,Jeans,Clothing,16,161.44,2583.04,Returned,David
+ORD00453,2025-11-30,CUST4509,East,Smartphone,Electronics,11,699.5,7694.5,Completed,Brian
+ORD00454,2025-05-26,CUST1241,North,Headphones,Electronics,8,1856.0,14848.0,Cancelled,Ethan
+ORD00455,2025-07-26,CUST3517,East,Desk,Furniture,3,1389.01,4167.03,Cancelled,Brian
+ORD00456,2025-08-02,CUST1720,North,Tablet,Electronics,12,1887.38,22648.56,Completed,Fiona
+ORD00457,2025-12-22,CUST2727,East,Jeans,Clothing,10,1219.24,12192.4,Returned,Brian
+ORD00458,2025-05-26,CUST6772,West,Smartphone,Electronics,9,1073.3,9659.7,Returned,Catherine
+ORD00459,2025-12-04,CUST7163,East,Coffee,Groceries,18,1357.51,24435.18,Completed,Alice
+ORD00460,2025-01-25,CUST7966,West,Headphones,Electronics,18,1837.07,33067.26,Returned,David
+ORD00461,2025-06-12,CUST3444,West,Sofa,Furniture,9,410.29,3692.61,Returned,David
+ORD00462,2025-09-04,CUST9977,West,Desk,Furniture,15,1614.36,24215.4,Cancelled,David
+ORD00463,2025-01-14,CUST4423,North,Chair,Furniture,19,307.08,5834.52,Completed,Ethan
+ORD00464,2025-11-12,CUST9624,North,Chair,Furniture,2,426.31,852.62,Returned,Ethan
+ORD00465,2025-11-06,CUST6841,West,Cooking Oil,Groceries,5,606.45,3032.25,Completed,Catherine
+ORD00466,2025-07-18,CUST8455,South,Milk Pack,Groceries,3,445.56,1336.68,Completed,Hannah
+ORD00467,2025-08-03,CUST9852,North,Headphones,Electronics,14,1761.57,24661.98,Returned,Fiona
+ORD00468,2025-01-29,CUST7052,East,Laptop,Electronics,10,1584.13,15841.3,Cancelled,Alice
+ORD00469,2025-10-17,CUST3947,North,Smartphone,Electronics,12,1518.44,18221.28,Cancelled,Fiona
+ORD00470,2025-12-07,CUST2433,West,Laptop,Electronics,4,1657.21,6628.84,Returned,Catherine
+ORD00471,2025-02-19,CUST2086,North,Cabinet,Furniture,7,413.91,2897.37,Completed,Ethan
+ORD00472,2025-12-19,CUST5219,West,Rice Bag,Groceries,1,1502.69,1502.69,Cancelled,Catherine
+ORD00473,2025-02-20,CUST9618,East,Coffee,Groceries,8,631.06,5048.48,Completed,Brian
+ORD00474,2025-08-29,CUST1389,East,Cooking Oil,Groceries,2,653.93,1307.86,Completed,Alice
+ORD00475,2025-10-27,CUST2065,West,Coffee,Groceries,3,392.5,1177.5,Cancelled,David
+ORD00476,2025-08-30,CUST9238,South,Sofa,Furniture,17,1714.77,29151.09,Cancelled,George
+ORD00477,2025-11-22,CUST5460,North,Coffee,Groceries,14,751.26,10517.64,Completed,Ethan
+ORD00478,2025-06-14,CUST7007,North,T-Shirt,Clothing,19,113.26,2151.94,Cancelled,Ethan
+ORD00479,2025-10-05,CUST3127,West,Sneakers,Clothing,7,914.31,6400.17,Completed,Catherine
+ORD00480,2025-12-13,CUST1000,North,Headphones,Electronics,2,1672.09,3344.18,Completed,Fiona
+ORD00481,2025-08-03,CUST1679,West,Rice Bag,Groceries,8,1328.97,10631.76,Completed,Catherine
+ORD00482,2025-05-03,CUST9204,South,Rice Bag,Groceries,5,431.28,2156.4,Returned,Hannah
+ORD00483,2025-11-15,CUST2329,East,Jeans,Clothing,3,892.07,2676.21,Returned,Brian
+ORD00484,2025-07-13,CUST8984,South,Cabinet,Furniture,16,294.15,4706.4,Completed,George
+ORD00485,2025-06-05,CUST7419,South,Cabinet,Furniture,13,1299.68,16895.84,Completed,George
+ORD00486,2025-10-06,CUST6026,East,Desk,Furniture,10,1892.05,18920.5,Returned,Brian
+ORD00487,2025-10-23,CUST5267,South,Headphones,Electronics,6,37.56,225.36,Cancelled,George
+ORD00488,2025-06-11,CUST7883,East,Rice Bag,Groceries,14,177.44,2484.16,Completed,Brian
+ORD00489,2025-08-05,CUST6865,South,Cabinet,Furniture,10,627.72,6277.2,Returned,George
+ORD00490,2025-02-22,CUST2084,South,Sofa,Furniture,16,897.83,14365.28,Cancelled,Hannah
+ORD00491,2025-03-24,CUST8673,West,Headphones,Electronics,8,1853.98,14831.84,Returned,Catherine
+ORD00492,2025-03-27,CUST1851,South,Laptop,Electronics,4,1873.1,7492.4,Cancelled,George
+ORD00493,2025-07-20,CUST9760,South,Smartphone,Electronics,6,877.86,5267.16,Cancelled,Hannah
+ORD00494,2025-01-03,CUST5888,West,Smartphone,Electronics,15,1210.62,18159.3,Returned,David
+ORD00495,2025-11-07,CUST7016,North,Tablet,Electronics,3,835.95,2507.85,Cancelled,Ethan
+ORD00496,2025-11-30,CUST1982,West,T-Shirt,Clothing,20,1554.61,31092.2,Cancelled,Catherine
+ORD00497,2025-04-21,CUST9179,South,Milk Pack,Groceries,13,36.18,470.34,Completed,Hannah
+ORD00498,2025-12-08,CUST6252,North,T-Shirt,Clothing,16,386.15,6178.4,Returned,Fiona
+ORD00499,2025-09-21,CUST6419,South,Coffee,Groceries,19,1968.07,37393.33,Cancelled,Hannah
+ORD00500,2025-11-12,CUST1780,West,Rice Bag,Groceries,10,77.45,774.5,Returned,David
