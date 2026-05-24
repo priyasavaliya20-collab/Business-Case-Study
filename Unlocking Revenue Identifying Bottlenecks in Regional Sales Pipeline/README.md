@@ -283,6 +283,14 @@ Built on SQL results or the original dataset, the dashboard includes:
 
 ---
 
+#### 📌 Storytelling Page
+
+<img width="1162" height="655" alt="Storytelling page" src="https://github.com/user-attachments/assets/8e9cacaa-3bd7-4d7e-a296-f49934d63d4a" />
+
+---
+
+
+
 ## 📈 How to Use
 
 1. Download or clone the repository
