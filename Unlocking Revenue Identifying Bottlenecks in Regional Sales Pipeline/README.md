@@ -248,6 +248,20 @@ ORDER BY ReturnCount DESC;
 
 Built on SQL results or the original dataset, the dashboard includes:
 
+---
+
+#### 📌 Home Page
+
+<img width="930" height="581" alt="Home Page" src="https://github.com/user-attachments/assets/831702db-6138-41d2-a773-64cdac0d6860" />
+
+---
+
+## 📸 Dashboard Preview
+
+<img width="1168" height="652" alt="Project Preview" src="https://github.com/user-attachments/assets/af6066bf-db34-40af-80dd-0f268e91f58d" />
+
+---
+
 #### 📌 KPI Cards
 - ✅ **Total Completed Sales** → ₹16,15,875.39
 - ❌ **Total Cancellations** → 169
@@ -266,20 +280,6 @@ Built on SQL results or the original dataset, the dashboard includes:
 - **Region** (East, West, North, South)
 - **Category** (Clothing, Electronics, Furniture, Groceries)
 - **SalesAgent** (Alice, Brian, Catherine, David, Ethan, Fiona, George…)
-
----
-
-#### 📌 Home Page
-
-<img width="930" height="581" alt="Home Page" src="https://github.com/user-attachments/assets/831702db-6138-41d2-a773-64cdac0d6860" />
-
-
-----
-
-## 📸 Dashboard Preview
-
-<img width="1168" height="652" alt="Project Preview" src="https://github.com/user-attachments/assets/af6066bf-db34-40af-80dd-0f268e91f58d" />
-
 
 ---
 
