@@ -18,7 +18,7 @@ This project was built as a data analysis exam assignment. It analyzes the `Regi
 
 ## 🎬 Project Demo Video
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1e7dE0BsaF3pU732zzRzabpV-X89BMq3s/view?usp=sharing)
+[![Watch the Project Walkthrough](https://drive.google.com/file/d/1dNdl9H0zVWI2gwrM6scI97YvPVi6oLcr/view?usp=sharing)
 
 > 📺 Click the badge above to watch the full project walkthrough video on Google Drive.
 
